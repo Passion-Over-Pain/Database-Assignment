@@ -1,5 +1,10 @@
 # Database Design and Implementation Assignment
 
+
+![Banner](https://github.com/user-attachments/assets/a6382d21-9339-4ba8-b7a8-9a315abec7a4)
+
+---
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Objective](#objective)
