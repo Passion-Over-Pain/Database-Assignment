@@ -105,3 +105,11 @@ Triggers enforced data consistency:
 ## Conclusion
 This assignment provided an opportunity to apply database design principles to a real-world scenario. By creating a functional schema, complex queries, stored procedures, and triggers, I ensured that Koreanders' requirements were met effectively. The final deliverables included a normalized database, optimized SQL scripts, and automated workflows that streamline operations and maintain data integrity.
 
+<p align="center" style="font-family: 'Times New Roman', serif;">
+  <a href="https://dev.to/passionoverpain">Dev.to</a> |
+  <a href="mailto:tinomhedziso21@gmail.com">Email</a> |
+  <a href="https://github.com/Passion-Over-Pain">GitHub</a> |
+  <a href="https://www.linkedin.com/in/tinotenda-mhedziso/">LinkedIn</a> |
+  <a href="https://tinotenda-mhedziso.pages.dev/">Website</a>
+</p>
+
